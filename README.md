@@ -4,6 +4,7 @@ Try to make her and others happy while keeping up your social score, love score,
 Most choices will be presented in the form of 
 
 "| 1. XXX | 2. YYY | 3. ZZZ |"
+
 Type the number of the corresponding selection and press enter to choose.
 If you are meant to select multiple numbers, type them in consecutively with a space in between (i.e "1 2").
 
