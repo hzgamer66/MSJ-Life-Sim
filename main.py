@@ -53,7 +53,7 @@ def chooseCourses(courseList):
             for i in range(1, len(courseList[item]) + 1):
                 options += str(i) + ". " + courseList[item][i-1] + " | "
             options = options[0:-3]
-            print(options + "\n")
+            print(options)
             
             validSelection = False
             while not validSelection:
