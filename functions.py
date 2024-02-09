@@ -4,10 +4,10 @@ courseList = {"English":["AP Lit", "Eng 12"], "Math":["Multivar", "Calc BC", "Ca
            "Social Science":["Gov/Econ"], "Art:":["Band", "Orchestra", "Digital Imaging", "Ceramics"], 
            "Electives":["AP Physics 1", "AP Physics C", "AP Stats", "AP Chem", "AP Bio", "AP Human Geo", "APES", "TA"] }
 
-difficulty = {"AP Lit":1.05, "Eng 12":0.95, 
-                  "Multivar":1.05, "Calc BC":1.05, "Calc AB":1.02, "Precalc":0.98,
+difficulty = {"AP Lit":1.07, "Eng 12":0.97, 
+                  "Multivar":1.07, "Calc BC":1.07, "Calc AB":1.05, "Precalc":0.98,
                   "Gov/Econ":1, "Band": 0.97, "Orchestra":0.97, "Digital Imaging":0.97, "Ceramics":0.97,
-                  "AP Physics 1":1.03, "AP Physics C":1.05, "AP Stats":1.02, "AP Chem":1.03, "AP Bio":1.03, "AP Human Geo":1.03, "APES":1.03, "TA":0.97}
+                  "AP Physics 1":1.05, "AP Physics C":1.07, "AP Stats":1.04, "AP Chem":1.04, "AP Bio":1.04, "AP Human Geo":1.04, "APES":1.04, "TA":0.97}
 
 # extracurricular list and their daily hour consumption
 extracurriculars = {"Underwater Tennis":4, "Picket Fence Long Jump":2, "Blindfold Lacrosse":4, "Sky-high Badminton":3, "Underwater Basket Weaving":1}
